@@ -1,1 +1,1 @@
-# CMPG214---Web-Developer-Redesign-a-Website-Task-1-
+# CMPG214 - Web Developer: Redesign a Website(Task 1)
